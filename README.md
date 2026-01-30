@@ -48,6 +48,9 @@ Recorded amendments to governing documents:
 
 ---
 
+## ℹ️ Meeting Minutes
+
+
 ## ℹ️ Additional Information
 
 - This site is intended for use by Association members.
