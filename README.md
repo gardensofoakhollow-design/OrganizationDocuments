@@ -25,7 +25,7 @@ The following documents are the Association’s *dedicatory instruments* filed i
 - 📄 [Declaration of Covenants, Conditions, and Restrictions](docs/declaration.pdf)
 
 ### Bylaws
-- 📄 [Bylaws of the Association](docs/bylaws.pdf)
+- 📄 [Bylaws of the Association](governance/GOH_ByLaws_1994.pdf)
 
 ### Rules & Guidelines
 *(Only documents recorded in deed records are listed here)*
